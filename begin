@@ -1,3 +1,4 @@
+try {
 test.init();
 Connection con;
 out.write(”aString”);
