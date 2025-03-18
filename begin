@@ -1,3 +1,4 @@
+} catch (IOException e) {
 PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
 public void fetch() throws SQLException, IOException
 ps.close();
