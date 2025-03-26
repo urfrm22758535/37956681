@@ -1,3 +1,4 @@
+public static void main(String[] args)
 Properties props = new Properties();
 } catch (IOException e) {
 public void init(FileInputStream fs) throws ClassNotFoundException, SQLException, FileNotFoundException, IOException
